@@ -1,2 +1,2 @@
 # DataTransferApp
-Toll to import data from a different database
+Tool to import data from a different database
